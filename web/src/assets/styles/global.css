@@ -46,6 +46,7 @@ input,
 button,
 textarea {
     font: 500 1.6rem Poppins; 
+    color: var(--color-text-base);
     /* Rem - Botar uma porcentagem a mais do font-size, utilizado para criar aplicações responsivas */
 }
 
